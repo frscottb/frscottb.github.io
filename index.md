@@ -1,6 +1,6 @@
 
 # Monastery Dropout
-This page is for people who wanted to become monks, nuns, consecrated religous, but for one reason or another, were unable to "persevere."
+This page is for people who wanted to become monks, nuns, consecrated religious, but for one reason or another, were unable to "persevere."
 
 ## Possible Reasons
 

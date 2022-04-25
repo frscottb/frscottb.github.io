@@ -5,3 +5,5 @@ plugins:
 header: null
 name: Monastic Renaissance
 title: null
+github:
+   is_project_page: false

@@ -3,9 +3,5 @@ remote_theme: pages-themes-hacker
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 header: null
+name: Monastic Renaissance
 title: null
-@import "{{ site.theme }}";
-
-header {
-    display: none;
-}
